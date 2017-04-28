@@ -1,0 +1,52 @@
+body {
+	padding: 0px;
+	margin: 0px;
+	font-family: arial;
+	font-size: 14px;
+}
+
+#banner {
+	font-size: 20px;
+	background-color: #dfdfdf;
+	padding: 20px;
+}
+
+#left {
+	float: left;
+	width: 250px;
+	background-color: #efefef;
+	min-height: 500px;
+}
+
+#menu {
+	margin: 10px;
+}
+
+.menu-item {
+	margin: 5px;
+}
+
+#main {
+	padding: 10px; 
+}
+
+#footer {
+	clear: both;
+}
+
+.data-table {
+	width: 600px;
+	border-collapse: collapse;
+	margin-top: 10px;
+}
+
+.data-header {
+	background-color: black;
+	color: white;
+	font-weight: bolder;
+}
+
+.data-table , .data-table td {
+	border: solid 1px #dedede;
+	padding: 10px;
+}
